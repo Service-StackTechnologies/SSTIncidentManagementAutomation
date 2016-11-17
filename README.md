@@ -1,0 +1,2 @@
+# SSTIncidentManagementAutomation
+Automating IncidentManagementUseCases
